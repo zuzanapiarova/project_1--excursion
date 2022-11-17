@@ -1,3 +1,35 @@
 *{
-    background-color: red;
+    background-color: black;
+    color: white;
+    font-family: Verdana;
+    font-weight: normal;
+}
+
+body{
+    text-align: center;
+}
+
+p{
+    color: gray;
+}
+
+h1{
+    font-size: 2.5em;
+}
+
+h4{
+    font-size: 2em;
+}
+
+.download__link{
+    color: aquamarine;
+    text-decoration: underline;
+}
+
+.phone__icon{
+    margin-top: 20px;
+}
+
+.copyright{
+    text-align: right;
 }
